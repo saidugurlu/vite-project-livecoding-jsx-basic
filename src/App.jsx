@@ -9,6 +9,8 @@ function App() {
   return (
     <div className="App">
       <h1>{title}</h1>
+      
+  {/* {Show Colors} */}
       {colors.length > 0 && (
         <>
           <h2>Colors</h2>
